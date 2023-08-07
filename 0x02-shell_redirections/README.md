@@ -23,3 +23,4 @@ Reverse input
 Display all users and their home directories
 Find empty files and directories
 List files with .gif extension
+Task 25. Decode acrostics
