@@ -10,3 +10,4 @@ Task 8. Save current state of directory
 Task 9. Duplicate last line
 Task 10. Delete files with .js extension
 Task 11. Count directories and subdirectories
+Task 12. Display the newest files
