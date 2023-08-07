@@ -20,3 +20,4 @@ Display all lines starting with a letter
 Replay characters
 Task 20. Remove letters
 Reverse input
+Display all users and their home directories
