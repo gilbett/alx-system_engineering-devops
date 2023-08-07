@@ -13,3 +13,4 @@ Task 11. Count directories and subdirectories
 Task 12. Display the newest files
 Task 13. Print unique words
 Display lines containing the pattern
+Display the number of lines that contain the patterno
