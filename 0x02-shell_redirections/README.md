@@ -18,3 +18,4 @@ Task 16. Display lines containing the pattern and lines
 Task 17. Display all the linesnot containing patter
 Display all lines starting with a letter
 Replay characters
+Task 20. Remove letters
