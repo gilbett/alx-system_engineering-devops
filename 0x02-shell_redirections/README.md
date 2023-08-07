@@ -14,3 +14,4 @@ Task 12. Display the newest files
 Task 13. Print unique words
 Display lines containing the pattern
 Display the number of lines that contain the patterno
+Task 16. Display lines containing the pattern and lines
